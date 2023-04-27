@@ -9,7 +9,8 @@ Be able to show error state:
     name: /validation-rule-for-name/g,
     email: /validation-rule-for-email/g,
     message: /validation-rule-for-message/g
-}```.
+}
+```
 
 🧠 Takeaways:
 Handling form submissions
