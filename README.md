@@ -5,7 +5,8 @@ Form validation is another common task you will often find yourself dealing with
 ✨ Features:
 Be able to set validation rules for an input
 Be able to show error state:
-```const validationRules = {
+```
+const validationRules = {
     name: /validation-rule-for-name/g,
     email: /validation-rule-for-email/g,
     message: /validation-rule-for-message/g
